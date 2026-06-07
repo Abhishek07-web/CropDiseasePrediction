@@ -1,6 +1,6 @@
 # 🌾 Crop Disease Prediction System — AI Plant Doctor
 
-> **Final Year Project** | Sandip University | B.Sc CS (AI, ML & VR) — 2026  
+> **College Project** | Sandip University | B.Sc CS (AI, ML & VR) — 2026  
 > **Developer:** Abhishek Gorakh Borade
 
 An AI-powered web application that detects crop diseases from leaf images using Convolutional Neural Networks (CNN) and provides instant treatment advice.
@@ -149,7 +149,7 @@ This will:
 python app.py
 ```
 
-Open your browser and go to: **http://localhost:5000**
+Open your browser 
 
 ### Step 7 (Optional) — CLI Prediction
 
@@ -200,23 +200,13 @@ __pycache__/
 static/uploads/*
 data/
 *.h5
-```
-
----
-
-## 📝 Resume Description
-
-> **Crop Disease Prediction System** | Python, Flask, TensorFlow, CNN, OpenCV | 2026  
-> Developed an AI-powered web application that classifies plant leaf diseases from images using a Convolutional Neural Network (MobileNetV2 transfer learning). Achieved ~90%+ validation accuracy on the PlantVillage dataset across 7 disease classes. Built a full-stack Flask web interface with drag-and-drop image upload, real-time disease diagnosis, confidence scoring, and treatment recommendations. Deployed end-to-end ML pipeline including data preprocessing, model training, evaluation, and web serving.  
-> **GitHub:** (https://github.com/Abhishek07-web/CropDiseasePrediction)
-
 ---
 
 ## 📬 Contact
 
 **Abhishek Gorakh Borade**  
 B.Sc Computer Science (AI, ML & VR) — Sandip University, 2026  
-📧 abhishekborade907@gmail.com.com  
+📧 abhishekborade907@gmail.com 
 🔗 [GitHub](https://github.com/Abhishek07-web) | [LinkedIn](https://www.linkedin.com/in/abhishekborade28)
 
 ---
