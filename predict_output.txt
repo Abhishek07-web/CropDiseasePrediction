@@ -1,0 +1,4 @@
+2026-06-07 11:07:14.764865: I tensorflow/core/util/port.cc:153] oneDNN custom operations are on. You may see slightly different numerical results due to floating-point round-off errors from different computation orders. To turn them off, set the environment variable `TF_ENABLE_ONEDNN_OPTS=0`.
+2026-06-07 11:07:21.667552: I tensorflow/core/util/port.cc:153] oneDNN custom operations are on. You may see slightly different numerical results due to floating-point round-off errors from different computation orders. To turn them off, set the environment variable `TF_ENABLE_ONEDNN_OPTS=0`.
+usage: predict.py [-h] --image IMAGE [--model MODEL] [--top_k TOP_K]
+predict.py: error: unrecognized arguments: ; type predict_output.txt
