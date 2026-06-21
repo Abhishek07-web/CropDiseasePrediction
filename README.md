@@ -1,6 +1,6 @@
 # 🌾 Crop Disease Prediction System — AI Plant Doctor
 
-> **Final Year Project** | Sandip University | B.Sc CS (AI, ML & VR) — 2026  
+> **College Project** | Sandip University | B.Sc CS (AI, ML & VR) — 2026  
 > **Developer:** Abhishek Gorakh Borade
 
 An AI-powered web application that detects crop diseases from leaf images using Convolutional Neural Networks (CNN) and provides instant treatment advice.
@@ -96,7 +96,7 @@ CropDiseasePrediction/
 ### Step 1 — Clone the Repository
 
 ```bash
-git clone https://github.com/yourusername/CropDiseasePrediction.git
+git clone https://github.com/Abhishek07-web/CropDiseasePrediction.git
 cd CropDiseasePrediction
 ```
 
@@ -187,7 +187,7 @@ git commit -m "Initial commit: Crop Disease Prediction AI Web App"
 # 4. Create repo on GitHub (github.com → New Repository → CropDiseasePrediction)
 
 # 5. Connect and push
-git remote add origin https://github.com/yourusername/CropDiseasePrediction.git
+git remote add origin https://github.com/Abhishek07-web/CropDiseasePrediction.git
 git branch -M main
 git push -u origin main
 ```
@@ -208,7 +208,7 @@ data/
 
 > **Crop Disease Prediction System** | Python, Flask, TensorFlow, CNN, OpenCV | 2026  
 > Developed an AI-powered web application that classifies plant leaf diseases from images using a Convolutional Neural Network (MobileNetV2 transfer learning). Achieved ~90%+ validation accuracy on the PlantVillage dataset across 7 disease classes. Built a full-stack Flask web interface with drag-and-drop image upload, real-time disease diagnosis, confidence scoring, and treatment recommendations. Deployed end-to-end ML pipeline including data preprocessing, model training, evaluation, and web serving.  
-> **GitHub:** https://github.com/yourusername/CropDiseasePrediction
+> **GitHub:** https://github.com/Abhishek07-web/CropDiseasePrediction
 
 ---
 
@@ -216,8 +216,8 @@ data/
 
 **Abhishek Gorakh Borade**  
 B.Sc Computer Science (AI, ML & VR) — Sandip University, 2026  
-📧 your.email@example.com  
-🔗 [GitHub](https://github.com/yourusername) | [LinkedIn](https://linkedin.com/in/yourprofile)
+📧 abhishekborade907@gmail.com  
+🔗 [GitHub](https://github.com/Abhishek07-web) | [LinkedIn](https://www.linkedin.com/in/abhishekborade28)
 
 ---
 
