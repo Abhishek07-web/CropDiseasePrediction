@@ -1,0 +1,6 @@
+Image: data/test/Bacterial_Blight/Bacterial_Blight_0000.png
+Top 3 predictions:
+ 1. Leaf_Rust             20.4%  ██████
+ 2. Early_Blight          20.2%  ██████
+ 3. Bacterial_Blight      20.0%  ██████
+Saved visualization → results/prediction_result_cli.png
