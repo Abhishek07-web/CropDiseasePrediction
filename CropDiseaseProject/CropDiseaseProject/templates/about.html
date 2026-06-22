@@ -1,0 +1,103 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8"/>
+  <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+  <title>About | Crop Disease Prediction</title>
+  <link rel="stylesheet" href="{{ url_for('static', filename='css/style.css') }}"/>
+  <link href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700;800&display=swap" rel="stylesheet"/>
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css"/>
+</head>
+<body>
+
+<nav class="navbar">
+  <div class="nav-brand">
+    <span class="nav-icon">🌾</span>
+    <span class="nav-title">CropDoc <span class="nav-badge">AI</span></span>
+  </div>
+  <ul class="nav-links">
+    <li><a href="/"><i class="fas fa-home"></i> Home</a></li>
+    <li><a href="/about" class="active"><i class="fas fa-info-circle"></i> About</a></li>
+    <li><a href="https://github.com/yourusername/CropDiseasePrediction" target="_blank"><i class="fab fa-github"></i> GitHub</a></li>
+  </ul>
+</nav>
+
+<main class="main-container" style="padding-top:2rem;">
+
+  <div class="about-hero">
+    <h1>About This Project</h1>
+    <p>An AI-powered Crop Disease Prediction System built as a final year project at Sandip University</p>
+  </div>
+
+  <div class="about-grid">
+
+    <div class="about-card">
+      <div class="about-icon">👨‍💻</div>
+      <h3>Developer</h3>
+      <p><strong>Abhishek Gorakh Borade</strong></p>
+      <p>B.Sc Computer Science (AI, ML & VR)</p>
+      <p>Sandip University — Batch 2026</p>
+    </div>
+
+    <div class="about-card">
+      <div class="about-icon">🎯</div>
+      <h3>Project Goal</h3>
+      <p>Help farmers detect plant diseases early using AI, reducing crop loss and improving agricultural productivity.</p>
+    </div>
+
+    <div class="about-card">
+      <div class="about-icon">🧠</div>
+      <h3>AI Model</h3>
+      <p>Convolutional Neural Network (CNN) using MobileNetV2 transfer learning trained on the PlantVillage dataset.</p>
+    </div>
+
+    <div class="about-card">
+      <div class="about-icon">📊</div>
+      <h3>Performance</h3>
+      <p><strong>~90%+</strong> Validation Accuracy</p>
+      <p><strong>~89–92%</strong> Test Accuracy</p>
+      <p>7 disease classes supported</p>
+    </div>
+
+  </div>
+
+  <div class="tech-section">
+    <h2>Tech Stack</h2>
+    <div class="tech-grid">
+      <div class="tech-item"><span>🐍</span> Python 3.10+</div>
+      <div class="tech-item"><span>🌐</span> Flask</div>
+      <div class="tech-item"><span>🤖</span> TensorFlow / Keras</div>
+      <div class="tech-item"><span>👁️</span> OpenCV</div>
+      <div class="tech-item"><span>📊</span> NumPy / Matplotlib</div>
+      <div class="tech-item"><span>🎨</span> HTML / CSS / JS</div>
+    </div>
+  </div>
+
+  <div class="pipeline-section">
+    <h2>How It Works</h2>
+    <div class="pipeline">
+      <div class="pipe-step"><div class="pipe-num">1</div><div class="pipe-text"><h4>Upload</h4><p>User uploads leaf image</p></div></div>
+      <div class="pipe-arrow">→</div>
+      <div class="pipe-step"><div class="pipe-num">2</div><div class="pipe-text"><h4>Preprocess</h4><p>Resize & normalize image</p></div></div>
+      <div class="pipe-arrow">→</div>
+      <div class="pipe-step"><div class="pipe-num">3</div><div class="pipe-text"><h4>CNN Inference</h4><p>Deep learning prediction</p></div></div>
+      <div class="pipe-arrow">→</div>
+      <div class="pipe-step"><div class="pipe-num">4</div><div class="pipe-text"><h4>Results</h4><p>Disease + treatment advice</p></div></div>
+    </div>
+  </div>
+
+</main>
+
+<footer class="footer">
+  <div class="footer-content">
+    <div class="footer-brand"><span>🌾 CropDoc AI</span><p>AI-Powered Crop Disease Detection System</p></div>
+    <div class="footer-info">
+      <p>Developed by <strong>Abhishek Gorakh Borade</strong></p>
+      <p>Sandip University | B.Sc CS (AI, ML & VR) — 2026</p>
+    </div>
+  </div>
+  <div class="footer-bottom"><p>© 2026 Abhishek Gorakh Borade · All Rights Reserved</p></div>
+</footer>
+
+</body>
+</html>

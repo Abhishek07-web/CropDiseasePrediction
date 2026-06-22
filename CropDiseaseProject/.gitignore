@@ -12,7 +12,6 @@ env/
 .env/
 
 # Model files (large - use Git LFS if needed)
-*.h5
 *.keras
 
 # Dataset (too large for GitHub)
