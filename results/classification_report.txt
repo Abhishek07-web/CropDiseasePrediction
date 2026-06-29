@@ -1,0 +1,11 @@
+                  precision    recall  f1-score   support
+
+Bacterial_Blight       0.32      1.00      0.48        16
+    Early_Blight       0.00      0.00      0.00        16
+         Healthy       1.00      1.00      1.00        18
+       Leaf_Rust       0.00      0.00      0.00        18
+  Powdery_Mildew       1.00      1.00      1.00        16
+
+        accuracy                           0.60        84
+       macro avg       0.46      0.60      0.50        84
+    weighted avg       0.47      0.60      0.50        84
