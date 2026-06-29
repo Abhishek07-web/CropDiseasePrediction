@@ -25,7 +25,7 @@ ALLOWED_EXTENSIONS = {"png", "jpg", "jpeg", "webp"}
 
 os.makedirs(app.config["UPLOAD_FOLDER"], exist_ok=True)
 
-MODEL_PATH         = os.path.join(os.path.dirname(__file__), "models", "crop_disease_model.h5")
+MODEL_PATH         = os.path.join(os.path.dirname(__file__), "models", "crop_disease_model.keras")
 CLASS_INDICES_PATH = os.path.join(os.path.dirname(__file__), "results", "class_indices.json")
 IMG_SIZE           = (64, 64)
 
