@@ -1,5 +1,5 @@
-tensorflow-cpu==2.13.0
-numpy>=1.23.0,<2.0
+tensorflow==2.20.0
+numpy>=1.23.0
 opencv-python-headless>=4.7.0
 flask>=2.3.0
 werkzeug>=2.3.0
