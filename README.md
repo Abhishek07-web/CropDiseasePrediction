@@ -216,9 +216,7 @@ data/
 
 **Abhishek Gorakh Borade**  
 B.Sc Computer Science (AI, ML & VR) — Sandip University, 2026  
-📧 your.email@example.com  
-🔗 [GitHub](https://github.com/yourusername) | [LinkedIn](https://linkedin.com/in/yourprofile)
-
----
+📧 abhishekboradr907@gmail.com  
+--
 
 *Made with ❤️ for Smart Agriculture*
