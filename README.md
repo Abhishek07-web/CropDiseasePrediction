@@ -96,7 +96,7 @@ CropDiseasePrediction/
 ### Step 1 — Clone the Repository
 
 ```bash
-git clone https://github.com/yourusername/CropDiseasePrediction.git
+git clone https://github.com/Abhishek07-web/CropDiseasePrediction.git
 cd CropDiseasePrediction
 ```
 
@@ -207,7 +207,7 @@ data/
 ## 📝 Resume Description
 
 > **Crop Disease Prediction System** | Python, Flask, TensorFlow, CNN, OpenCV | 2026  
-> Developed an AI-powered web application that classifies plant leaf diseases from images using a Convolutional Neural Network (MobileNetV2 transfer learning). Achieved ~90%+ validation accuracy on the PlantVillage dataset across 7 disease classes. Built a full-stack Flask web interface with drag-and-drop image upload, real-time disease diagnosis, confidence scoring, and treatment recommendations. Deployed end-to-end ML pipeline including data preprocessing, model training, evaluation, and web serving.  
+> Developed an AI-powered web application that classifies plant leaf diseases from images using a Convolutional Neural Network (MobileNetV2 transfer learning). Achieved ~90%+ validation accuracy on the PlantVillage dataset across 5 disease classes. Built a full-stack Flask web interface with drag-and-drop image upload, real-time disease diagnosis, confidence scoring, and treatment recommendations. Deployed end-to-end ML pipeline including data preprocessing, model training, evaluation, and web serving.  
 > **GitHub:** https://github.com/yourusername/CropDiseasePrediction
 
 ---
